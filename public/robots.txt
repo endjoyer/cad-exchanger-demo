@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cad-exchanger-demo.vercel.app/sitemap.xml
